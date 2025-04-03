@@ -52,14 +52,18 @@
 ---
 
 ## **📌 Featured Projects**  
-🚀 **[Template Playground](https://github.com/your-username/template-playground)**  
-💡 AI-powered contract template generator with **ReactJS & Tailwind**  
 
-🌐 **[IoT Bedside Panel](https://github.com/your-username/iot-bedside-panel)**  
+🌐 **[IoT Bedside Panel](https://github.com/abigit7/iot-bedside-panel)**  
 📊 Smart **home monitoring system** for better healthcare  
 
-📖 **[Poetry Book Project](https://github.com/your-username/poetry-book)**  
-🖋️ Exploring themes of **melancholy, love, and broken families**  
+📖 **[Chatbot using python and flask](https://github.com/abigit7/python-chatbot)**  
+🖋️ Exploring themes of **strength, love and resilience**  
+
+📖 **[Public portfolio](https://github.com/abigit7/portfolio)**  
+🖋️ **Portfolio showcasing my projects and experience** 
+
+
+
 
 ---
 
@@ -67,7 +71,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>  
 
 ---
