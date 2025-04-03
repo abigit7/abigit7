@@ -9,9 +9,8 @@
 ## **✨ About Me**  
 - 🎓 Engineering student passionate about **technology & innovation**  
 - 💻 Skilled in **ReactJS, Tailwind CSS, JavaScript, Python, C, and Embedded Systems**  
-- 🔬 Currently working on **AI-powered contract template generation & IoT bedside panel**  
 - 🏔️ Love **trekking, traveling, and appreciating nature**  
-- 📖 Writing a **poetry book** on melancholy, love, and broken families  
+- 📖 Writing a **poetry book** 
 
 ---
 
@@ -42,7 +41,7 @@
 
 ## **📊 GitHub Stats**  
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/abigit7">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
     <br>
