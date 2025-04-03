@@ -2,7 +2,6 @@
 
 🚀 **Engineer | Web Developer | Embedded Systems Enthusiast**  
 💡 **Building cool tech with React, AI, and IoT**  
-🌍 **Dreaming of a beautiful house in the Italian or Japanese countryside**  
 
 ---
 
@@ -42,7 +41,7 @@
 ## **📊 GitHub Stats**  
 <div align="center">
   <a href="https://github.com/abigit7">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=abigit7e&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=abigit7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=abigit7&theme=radical" />
     <br>
     <img src="https://github-profile-trophy.vercel.app/?username=abigit7&theme=radical&no-frame=true&row=1&column=6" />
