@@ -1,6 +1,6 @@
 # **👋 Hey there! I'm Abirami**  
 
-🚀 **Engineer | Web Developer | Embedded Systems Enthusiast**  
+🚀 **ML Engineer | Web Developer | Embedded Systems Enthusiast**  
 💡 **Building cool tech with React, AI, and IoT**  
 
 ---
